@@ -60,8 +60,28 @@ python3 -m http.server
 
 # 👤 Автор
 
-Мурад
-Frontend / Backend Developer
-Telegram-канал про IT и проекты:
-👉 https://t.me/murad_pro_it
-👉 @murad_pro_it
+Мурад <br>
+Frontend / Backend Developer <br>
+Telegram-канал про IT и проекты: <br>
+👉 Telegram: [@murad_pro_it](https://t.me/murad_pro_it) <br>
+👉 Instagram: [@murad__it](https://instagram.com/murad__it)
+
+- frontend
+- vanilla-js
+- javascript
+- ui-engineering
+- frontend-architecture
+- interactive-ui
+- web-animations
+- css-architecture
+- motion-design
+- creative-coding
+- parallax
+- 3d-ui
+- product-landing
+- landing-page
+- portfolio-project
+- performance
+- no-framework
+- no-library
+
